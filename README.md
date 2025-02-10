@@ -41,9 +41,10 @@ olamundo
 
 <hr>
 
-<div>
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
+
+  <hr>
 
   <h3>🔥 Streak Stats</h3>
   <p>
@@ -51,6 +52,8 @@ olamundo
       <img src="https://streak-stats.demolab.com?user=Victor-Hugo-0000&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
     </div>
   </a>
+
+  <hr>
 
   <h3>💻 GitHub Profile Stats</h3>
 
@@ -64,5 +67,6 @@ olamundo
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Victor-Hugo-0000&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  /></a>
 
-</div>
+<hr>
+
 </details>
