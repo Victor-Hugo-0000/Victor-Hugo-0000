@@ -1,18 +1,26 @@
 <h1 align="center">Victor Hugo</h1>
 
-<img align="right" height="200" src="https://github.com/user-attachments/assets/b5ea3353-b201-4989-995b-d74c75484506"  />
+<hr>
 
-<h3 align="left">About Me</h3>
+<div align="center">
+  <img height="200" src="https://images-ext-1.discordapp.net/external/yIHffdY2zMr1-aV928QjgcvB_EFFF75waXHB1GebRJ8/https/media1.tenor.com/m/Gbw58pMXBkUAAAAd/jjk0-yuta.gif"  />
+</div>
 
 <hr>
 
+<h3 align="left">About Me:</h3>
+
 olamundo
 
+<hr>
+
+<h3 align="left">About Me:</h3>
+
+olamundo
 
 <div>
-
-  <h3>👨‍💻 Programming and Markup Languages</h3>
-
+  <hr>
+  <h3>👨‍💻 Programming and Markup Languages:</h3>
   <p>
       <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -23,16 +31,28 @@ olamundo
       <a href=""><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
       <a href=""><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
       <a href=""><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-      <a href=""><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p>
 
 </div>
+<div>
+  <hr>
+  <h3>🗄️ Databases:</h3>
+  <p>
+      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href=""><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+      <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+  </p>
+</div>
 
-<p align="left"></p>
+<hr>
 
-###
+<div align="center">
 
-<div align="left">
+  <h3 align="left">About Me:</h3>
 
   <img src="https://github-readme-stats.vercel.app/api?username=Victor-Hugo-0000&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150"       alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Victor-Hugo-0000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
