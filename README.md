@@ -30,7 +30,7 @@
 
 I am a final-term student in Systems Analysis and Development, passionate about technology and always looking for new challenges. My focus is on Network Infrastructure, Computer Networks, Information Security, and Cybersecurity.
 
-Currently, I am improving my skills in Linux, Python, Java, C, C++, and C#, while also exploring API development, cybersecurity, and networking. Here in my repository, you'll find projects that reflect my learning journey and my interest in building secure and efficient technological solutions.
+Currently, I am improving my skills in Linux, Python, and API development, while also exploring more about cybersecurity and networking. Here in my repository, you will find projects that reflect my learning journey and my interest in building secure and efficient technological solutions.
 
 Feel free to explore my projects and share ideas. Let’s build together! 🚀
 
@@ -39,7 +39,7 @@ Feel free to explore my projects and share ideas. Let’s build together! 🚀
 <br>
 
   <hr>
-  <h3>🎛️ Operating System:</h3>
+  <h3>💻 Operating System:</h3>
   <p>
       <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
       <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
@@ -53,9 +53,11 @@ Feel free to explore my projects and share ideas. Let’s build together! 🚀
   <hr>
   <h3>👨‍💻 Programming and Markup Languages:</h3>
   <p>
-      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+</div> 
+<div>    
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
       <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
