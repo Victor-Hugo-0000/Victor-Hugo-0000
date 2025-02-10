@@ -3,7 +3,7 @@
 <hr>
 
 <div align="center">
-  <img height="200" src="https://images-ext-1.discordapp.net/external/yIHffdY2zMr1-aV928QjgcvB_EFFF75waXHB1GebRJ8/https/media1.tenor.com/m/Gbw58pMXBkUAAAAd/jjk0-yuta.gif"  />
+  <img height="200" src="https://github.com/user-attachments/assets/15800b45-b3b3-468a-b48d-a5af85d0edc6"  />
 </div>
 
 <hr>
@@ -43,11 +43,26 @@ olamundo
 
 <hr>
 
-<div align="center">
+<div>
+<details>
+  <summary><h2>📊 Stats and Activity</h2></summary>
 
-  <h3 align="left">About Me:</h3>
+  <!--<h3>🔥 Streak Stats</h3>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Victor-Hugo-0000&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150"       alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Victor-Hugo-0000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=DenverCoder1&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+  </p>-->
 
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <!--<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.-->
+  
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </div>
+</details>
