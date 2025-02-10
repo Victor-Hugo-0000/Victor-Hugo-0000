@@ -35,6 +35,9 @@ Currently, I am improving my skills in Linux, Python, Java, C, C++, and C#, whil
 Feel free to explore my projects and share ideas. Let’s build together! 🚀
 
 <div>
+
+<br>
+
   <hr>
   <h3>🎛️ Operating System:</h3>
   <p>
