@@ -1,5 +1,7 @@
 <h1 align="center">Victor Hugo</h1>
 
+<img align="right" height="200" src="https://github.com/user-attachments/assets/b5ea3353-b201-4989-995b-d74c75484506"  />
+
 <h3 align="left">About Me</h3>
 
 <hr>
@@ -30,22 +32,9 @@ olamundo
 
 ###
 
-<h1 align="left"></h1>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h1 align="left"></h1>
-
-###
-
 <div align="left">
+
   <img src="https://github-readme-stats.vercel.app/api?username=Victor-Hugo-0000&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150"       alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Victor-Hugo-0000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-
-  <img align="right" height="200" src="https://github.com/user-attachments/assets/b5ea3353-b201-4989-995b-d74c75484506"  />
 
 </div>
