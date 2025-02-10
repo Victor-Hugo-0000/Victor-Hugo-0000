@@ -1,9 +1,7 @@
-<h1 align="center">Victor Hugo</h1>
-
 <hr>
 
 <div align="center">
-  <img height="200" src="https://github.com/user-attachments/assets/15800b45-b3b3-468a-b48d-a5af85d0edc6"  />
+  <img height="200" src="https://github.com/user-attachments/assets/5de90bf2-e5bc-4527-84c7-c4e5cf07bb0c"  />
 </div>
 
 <hr>
@@ -44,16 +42,6 @@ olamundo
 <hr>
 
 <div>
-<details>
-  <summary><h2>📊 Stats and Activity</h2></summary>
-
-  <!--<h3>🔥 Streak Stats</h3>
-
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=DenverCoder1&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
-    </a>
-  </p>-->
 
   <h3>💻 GitHub Profile Stats</h3>
 
@@ -65,4 +53,3 @@ olamundo
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </div>
-</details>
