@@ -36,6 +36,18 @@ Feel free to explore my projects and share ideas. Let’s build together! 🚀
 
 <div>
   <hr>
+  <h3>🎛️ Operating System:</h3>
+  <p>
+      <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+      <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+      <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+      <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"></a>
+      <a href="#"><img alt="kaliLinux" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"></a>
+  </p>
+</div>
+
+<div>
+  <hr>
   <h3>👨‍💻 Programming and Markup Languages:</h3>
   <p>
       <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
